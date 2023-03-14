@@ -1,4 +1,4 @@
-<a href='https://youtu.be/fcxtkygbE-A' target='_blank'> Myndband fyrir leik 1</a>
+<a href='https://youtu.be/fcxtkygbE-A' target="_blank"> Myndband fyrir leik 1</a>
 #### Myndband fyrir leik 2:
 
 ---------
