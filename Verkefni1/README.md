@@ -2,5 +2,5 @@
 #### Myndband fyrir leik 2:
 
 ---------
-[Myndband fyrir leik 1](https://youtu.be/fcxtkygbE-A)
+[Myndband fyrir leik 1](https://youtu.be/fcxtkygbE-A){:target="_blank"}
 test
