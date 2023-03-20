@@ -1,6 +1,6 @@
 [Myndband fyrir leik 1](https://youtu.be/fcxtkygbE-A)
 
-[Myndband fyrir leik 2](mbl.is)
+[Myndband fyrir leik 2](https://www.youtube.com/watch?v=VS2SNPvGhl8&ab_channel=Accent)
 
 ---------
 #### Svæðinn í Unity
