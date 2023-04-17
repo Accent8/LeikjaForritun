@@ -1,0 +1,1 @@
+ég copyaði bara asset möppuna yfir þannig það er fullt af dóti hérna sem ég sá ekki í unity eins og öll .meta fileinn (bara svona að láta vita)
