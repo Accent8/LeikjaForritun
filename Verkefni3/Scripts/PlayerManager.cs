@@ -41,6 +41,7 @@ public class PlayerManager : MonoBehaviour
         healthText.text = "Health:" + playerHealth;
         pointText.text = "Points:" + currentPoints;
         enemiesText.text = "Enemies Left:" + currentEnemies;
+
         // þetta if fall skoðar hvort að playerinn er undir -3 á y ás
         if (player.transform.position.y < -3 && !dead)
         {
@@ -51,13 +52,6 @@ public class PlayerManager : MonoBehaviour
 
     public void KillPlayer()
     {
-        deathText.SetActive(true);
-        dead = true;
-        Invoke(nameof(ReloadLevel), 2f);
-
-    }
-    void ReloadLevel()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
 }

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using static EquipmentManager;
 
 public class PlayerStats : CharacterStats
@@ -31,4 +32,17 @@ public class PlayerStats : CharacterStats
         base.Die();
         PlayerManager.instance.KillPlayer();
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Water"))
+        {
+            Die();
+        }
+        if(collision.gameObject.CompareTag("Exit"))
+        {
+            SceneManager.LoadScene("EndMenu");
+        }
+    }
+
 }

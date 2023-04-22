@@ -7,11 +7,13 @@ public class Gun : MonoBehaviour
     public float firerate = 20f;
     public Camera fpsCam;
     CharacterStats myStats;
+    public AudioSource m_shootingSound;
 
     private float nextTimeToFire = 0f;
     private void Start()
     {
         myStats = GetComponent<CharacterStats>();
+        m_shootingSound = GetComponent<AudioSource>();
     }
     void Update()
     {
@@ -24,6 +26,7 @@ public class Gun : MonoBehaviour
 
     void Shoot()
     {
+        m_shootingSound.Play();
         RaycastHit hit;
         if(Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
         {

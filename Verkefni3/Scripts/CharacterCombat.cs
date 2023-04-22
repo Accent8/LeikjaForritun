@@ -22,7 +22,6 @@ public class CharacterCombat : MonoBehaviour
 
     public void Attack(CharacterStats targetStats)
     {
-        PlayerManager.currentPoints -= 1;
         if (attackCooldown <= 0f) 
         {
             targetStats.TakeDamage(myStats.damage.getValue());
