@@ -2,16 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-// scripta til ağ stjórna start screeninu
+// scripta fyrir end screen
 public class EndScreen : MonoBehaviour
 {
     public void Quit()
     {
-        // læt forritiğ bara hlağa næsta scenei í build indexinu
+        // segir bara forritinu aÃ° slÃ¶kkva Ã¡ ser
         Application.Quit();
     }
+    // og ef player vil byrja aftur og Ã½ttir Ã¡ takkan
     public void StartAgain()
     {
+        // loadar Ã¾aÃ° Ã¾vÃ­ aÃ°al levelinu svo player getur spilaÃ° aftur
         SceneManager.LoadScene("MainLevel");
     }
 }
