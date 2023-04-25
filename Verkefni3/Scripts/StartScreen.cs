@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-// scripta til að stjórna start screeninu
+// Ã¾essi er fyrir start screen
 public class StartScreen : MonoBehaviour
 {
     public void StartGame()
     {
-        // læt forritið bara hlaða næsta scenei í build indexinu
+        // segir bara build index + 1 sem fer Ã¾Ã¡ Ã¡ nÃ¦sta scene Ã¡ buildIndex sem er main leveliÃ°
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
