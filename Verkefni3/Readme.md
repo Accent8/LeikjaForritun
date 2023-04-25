@@ -2,7 +2,7 @@
 
 ------------------------------
 
-í þessum leik er þú með verkefnið að drepa geislavirk dýr sem sluppu. í alls eru 20 dýr sem þú þarft að drepa og þegar það er búið kemst þú ú burt.
+í þessum leik er þú með verkefnið að drepa geislavirk dýr sem sluppu. í alls eru 20 dýr sem þú þarft að drepa og þegar það er búið kemst þú ú burt. þú færð stig fyrir að drepa dýrinn en ef þau lemja þig missir þú stig, ef þú vilt hætta getur þú fundið Exitið við heimnum og þá færðu að sleppa
 
 ------------------------------
 reyndi að bæta við trjám með Toms Terrain Tools þar sem ég fékk enginn með terrain tools og þá fór mini player controller scriptann í fokk og fékk fullt af villum þar sem byrjaði eitthvað chain reaction og var svo kominn með villu í allt saman. en leikur virkar semi bara enginn tré :/
