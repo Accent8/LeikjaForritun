@@ -6,3 +6,7 @@
 
 ------------------------------
 reyndi að bæta við trjám með Toms Terrain Tools þar sem ég fékk enginn með terrain tools og þá fór mini player controller scriptann í fokk og fékk fullt af villum þar sem byrjaði eitthvað chain reaction og var svo kominn með villu í allt saman. en leikur virkar semi bara enginn tré :/
+
+------------------------------
+
+https://youtu.be/w2FA53ILJ-s
