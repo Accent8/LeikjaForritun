@@ -10,3 +10,12 @@ reyndi að bæta við trjám með Toms Terrain Tools þar sem ég fékk enginn m
 ------------------------------
 
 https://youtu.be/w2FA53ILJ-s
+
+------------------------------
+svo nokkrar myndir
+-----------------------------
+![image](https://user-images.githubusercontent.com/70168436/234398481-9a84b82d-4feb-432b-8be0-83f0ef1cb78b.png)
+![image](https://user-images.githubusercontent.com/70168436/234398521-1f281f6a-8422-4692-8649-26020775c30d.png)
+![image](https://user-images.githubusercontent.com/70168436/234398565-6e31bc58-ff73-4486-afd1-af6b4087582d.png)
+![image](https://user-images.githubusercontent.com/70168436/234398590-76695cfb-7b61-4a85-b1b5-12b2367cb2a6.png)
+![image](https://user-images.githubusercontent.com/70168436/234398713-c106bfad-e86e-4644-a044-dd2360aea44e.png)
