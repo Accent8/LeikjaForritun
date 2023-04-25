@@ -19,3 +19,5 @@ svo nokkrar myndir
 ![image](https://user-images.githubusercontent.com/70168436/234398565-6e31bc58-ff73-4486-afd1-af6b4087582d.png)
 ![image](https://user-images.githubusercontent.com/70168436/234398590-76695cfb-7b61-4a85-b1b5-12b2367cb2a6.png)
 ![image](https://user-images.githubusercontent.com/70168436/234398713-c106bfad-e86e-4644-a044-dd2360aea44e.png)
+![image](https://user-images.githubusercontent.com/70168436/234398839-2987d444-d3fe-4381-8bb8-d4609cf5a203.png)
+![image](https://user-images.githubusercontent.com/70168436/234398979-c367f7e0-38b0-40c4-9dc5-50b38738538b.png)
