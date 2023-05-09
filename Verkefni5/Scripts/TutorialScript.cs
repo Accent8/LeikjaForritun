@@ -2,12 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-// scripta til ağ stjórna start screeninu
+// scripta til aÃ° stjÃ³na tutorial skjÃ¡
 public class TutorialScript : MonoBehaviour
 {
+    // fall Ã¾egar hann Ã½tir Ã¡ takkan
     public void StartGame()
     {
-        // læt forritiğ bara hlağa næsta scenei í build indexinu
+        // svo bara lÃ¡tiÃ° player fara Ã­ mainlevel til aÃ° spila
         SceneManager.LoadScene("MainLevel");
     }
 }
